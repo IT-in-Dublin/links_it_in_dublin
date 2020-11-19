@@ -1,5 +1,5 @@
-# links_it_in_dublin
-Lista de links do grupo IT in Dublin
+# Links colaborativos do IT in Dublin
+Esta e uma lista de links do grupo IT in Dublin, retirado do txt do topico fixo e colocado aqui para ter como objetivo a atualizacao mais continua e constante das informacoes.
 
 ## Duvida sobre visto de trabalho
 https://dbei.gov.ie
