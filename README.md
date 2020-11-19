@@ -35,11 +35,11 @@ http://www.OrangeGeniecom
 http://www.PaysTream.co.uk
 http://www.umbrella.co.uk/computer-futures
 
-##MAPA DAS EMPRESAS DE TI NA IRLANDA:
+## MAPA DAS EMPRESAS DE TI NA IRLANDA:
 http://zartis.com/techmap
 https://www.techireland.org
 
-##SITES PARA SE PROCURAR EMPREGO:
+## SITES PARA SE PROCURAR EMPREGO:
 https://clusterstack.io/
 http://ie.indeed.com/
 http://www.jobs.ie/
@@ -52,53 +52,53 @@ http://www.recruitireland.com/
 http://dublinstartupjobs.com/
 https://jobs.trovit.ie/
 
-##O visto da(o) esposa(o).
+## O visto da(o) esposa(o).
 https://www.facebook.com/groups/ITinDublin/permalink/919299441499802/
 
 ## Casar no Brasil x na Irlanda
 https://groups.google.com/forum/…
 
-##It in Dublin no Slack
+## It in Dublin no Slack
 https://itindublin.herokuapp.com/
 
-##News sobre EU
+## News sobre EU
 http://www.europarl.europa.eu/news/en
 
-##Grupo de TI em Galway
+## Grupo de TI em Galway
 https://www.facebook.com/groups/169693613385365/
 
-##Grupo de TI em Portugal
+## Grupo de TI em Portugal
 https://www.facebook.com/groups/IT.Portugal/?ref=gs&fref=gs&dti=345245825571836&hc_location=group
 
-##Grupo de Ti em Malta
+## Grupo de Ti em Malta
 https://www.facebook.com/groups/itmalta/about/
 
-###O contato dos recrutadores e coaching que estiveram presentes no encontro 02/07/2016 está disponível nesse post, na página do evento: 
+### O contato dos recrutadores e coaching que estiveram presentes no encontro 02/07/2016 está disponível nesse post, na página do evento: 
 https://www.facebook.com/events/1107746679285350/permalink/1116284398431578/
 
 
-##NERA (The National Employment Rights Authority, Autoridade Nacional para Direitos Trabalhistas)
+## NERA (The National Employment Rights Authority, Autoridade Nacional para Direitos Trabalhistas)
 www.employmentrights.ie
 
-##The Labour Relations Commission (Comissão de Relações Trabalhistas)
+## The Labour Relations Commission (Comissão de Relações Trabalhistas)
 www.lrc.ie
 
-##Crosscare Migrant Project (Projeto para Migrantes da Crosscare)
+## Crosscare Migrant Project (Projeto para Migrantes da Crosscare)
 www.migrantproject.ie
 
-##Migrant Rights Centre Ireland (Centro de Direitos de Migrantes da Irlanda)
+## Migrant Rights Centre Ireland (Centro de Direitos de Migrantes da Irlanda)
 www.mrci.ie
 
-##Trabalho Voluntario
+## Trabalho Voluntario
 https://coderdojo.com/
 
-##validar e checar o seu level de estudo
+## Validar e checar o seu level de estudo
 http://qsearch.qqi.ie/WebPart/Search?searchtype=recognitions
 
-##Dicas de Linkedin
+## Dicas de Linkedin
 https://www.facebook.com/groups/ITinDublin/permalink/1566150843481322/
 
-##Employment Permits Frequently Asked Questions
+## Employment Permits Frequently Asked Questions
 https://dbei.gov.ie/…/Empl…/FAQs/Employment-Permits-FAQs.pdf
 
 
