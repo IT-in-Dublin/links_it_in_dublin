@@ -1,6 +1,8 @@
 # Links colaborativos do IT in Dublin
 Esta e uma lista de links do grupo IT in Dublin, retirado do txt do topico fixo e colocado aqui para ter como objetivo a atualizacao mais continua e constante das informacoes.
 
+!["It Dub logo"](./resources/itdub.jpg "It Dub logo")
+
 ## Duvida sobre visto de trabalho
 https://dbei.gov.ie
 
@@ -41,6 +43,7 @@ https://www.techireland.org
 
 ## SITES PARA SE PROCURAR EMPREGO:
 https://clusterstack.io/
+https://www.linkedin.com/jobs/
 http://ie.indeed.com/
 http://www.jobs.ie/
 http://www.irishjobs.ie/
@@ -70,7 +73,7 @@ https://www.facebook.com/groups/169693613385365/
 ## Grupo de TI em Portugal
 https://www.facebook.com/groups/IT.Portugal/?ref=gs&fref=gs&dti=345245825571836&hc_location=group
 
-## Grupo de Ti em Malta
+## Grupo de TI em Malta
 https://www.facebook.com/groups/itmalta/about/
 
 ### O contato dos recrutadores e coaching que estiveram presentes no encontro 02/07/2016 está disponível nesse post, na página do evento: 
