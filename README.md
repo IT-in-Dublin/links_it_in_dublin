@@ -11,14 +11,8 @@ https://www.techlifeireland.com/
 ## Visto de estudante? Pode trabalhar? 20 ou 40 horas?
 http://www.citizensinformation.ie/…/trav…/student_visas.html
 
-## TAX Calculator 2016:
-http://www.virtualaccountant.ie/Tools/tax2016.jsp
-
-## TAX Calculator 2015, by contractor:
-http://www.iconaccounting.ie/tax-calculator/
-
-## Tax Calculator 2014 ( veja quanto ira receber bruto esse ano)
-http://www.virtualaccountant.ie/Tools/tax2014.jsp
+## Tax Calculator 2020
+https://download.pwc.com/ie/budget-2021/income-tax-calculator.html
 
 ## Revenue
 http://www.revenue.ie/en/index.html
