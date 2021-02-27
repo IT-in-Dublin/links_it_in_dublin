@@ -1,9 +1,7 @@
 # Links colaborativos do IT in Dublin
 Esta e uma lista de links do grupo IT in Dublin, retirado do txt do topico fixo e colocado aqui para ter como objetivo a atualizacao mais continua e constante das informacoes.
 
-!["It Dub logo"](./resources/itdub.jpg "It Dub logo")
-
-
+!["It Dub logo"](../resources/itdub.jpg "It Dub logo")
 
 ## Visto de estudante? Pode trabalhar? 20 ou 40 horas?
 http://www.citizensinformation.ie/…/trav…/student_visas.html

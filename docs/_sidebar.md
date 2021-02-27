@@ -1,3 +1,3 @@
 * [Home](/)
 * [Guide](guide.md)
-* [Duvidas de visto](/visto_duvidas)
+* [Duvidas de visto](/visto_duvidas/visto_duvidas.md)
