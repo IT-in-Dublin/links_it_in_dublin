@@ -3,10 +3,7 @@ Esta e uma lista de links do grupo IT in Dublin, retirado do txt do topico fixo 
 
 !["It Dub logo"](./resources/itdub.jpg "It Dub logo")
 
-## Duvida sobre visto de trabalho
-https://dbei.gov.ie
 
-https://www.techlifeireland.com/
 
 ## Visto de estudante? Pode trabalhar? 20 ou 40 horas?
 http://www.citizensinformation.ie/…/trav…/student_visas.html
