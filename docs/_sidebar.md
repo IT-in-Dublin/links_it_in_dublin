@@ -2,3 +2,5 @@
     - [Home](/)
         - [Duvidas de visto](/visto_duvidas/visto_duvidas.md)
     - [Guide](guide.md)
+    - [Encontros](/)
+        -[Encontros 2021](/encontros/2021/encontro_2021.md)
