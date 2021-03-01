@@ -12,21 +12,33 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
-      name: '',
-      repo: ''
+      name: 'It in Dublin',
+      el: "#app",
+      auto2top: true,
+      executeScript: true,
+      loadSidebar: true,
+      mergeNavbar: true,
+      loadNavbar: false,
+      maxLevel: 4,
+      subMaxLevel: 1,
+      search: {
+        paths: 'auto',
+      },
     }
   </script>
   <!-- Docsify v4 -->
-  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
-  <script>
-    window.$docsify = {
-      loadSidebar: true
-    }
-  </script>
-  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/ga.min.js"></script>
+  <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
   <style type="text/css">
-    .content {
+    .content{
       overflow: auto;
+    }
+    body.no-sidebar .sidebar,
+    body.no-sidebar .sidebar-toggle {
+        display: none !important;
+    }
+    body.no-sidebar .content {
+        left: 0px !important;
     }
   </style>
 </body>
